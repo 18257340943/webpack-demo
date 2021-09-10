@@ -1,7 +1,6 @@
 {
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "window.zoomLevel": 0,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": false
   },
