@@ -1,8 +1,4 @@
-import {
-  resolve,
-  join
-
-} from 'path';
+import {resolve, join} from 'path';
 
 const a = 1;
 
