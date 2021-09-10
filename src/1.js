@@ -1,7 +1,8 @@
 import {
   resolve,
   join
-} from 'path';
+
+} from 'path'
 
 const a = 1;
 
