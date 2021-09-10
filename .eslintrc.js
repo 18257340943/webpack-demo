@@ -11,6 +11,7 @@ module.exports = {
   },
   rules: {
     'prettier/prettier': 1,
+    'no-irregular-whitespace': 2,
     // "semi": ["error", "never"], // 禁止使用分号
   },
 };
